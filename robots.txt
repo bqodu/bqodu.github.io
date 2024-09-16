@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bqodu.github.io/Zwz/sitemap.Zwz.gz
